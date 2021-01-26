@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fc6f800-76cf-4b4b-a4df-cdc220502e27" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mtzYADUApJoj3eM9vmKuG3PevW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.api_lesson_04">
+    <configuration name="api_lesson_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_project_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\ningmengban\5.python\python_project_01\python_class\api_lesson_02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="api_lesson_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_project_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\ningmengban\5.python\python_project_01\python_class\api_lesson_03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="api_lesson_03_homework (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_project_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_class/api_lesson_03_homework.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="api_lesson_03_homework" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_project_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\ningmengban\5.python\python_project_01\python_class\api_lesson_03_homework.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="api_lesson_04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_project_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_class/api_lesson_04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.api_lesson_04" />
+        <item itemvalue="Python.api_lesson_03_homework (1)" />
+        <item itemvalue="Python.api_lesson_03_homework" />
+        <item itemvalue="Python.api_lesson_03" />
+        <item itemvalue="Python.api_lesson_02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fc6f800-76cf-4b4b-a4df-cdc220502e27" name="Default Changelist" comment="" />
+      <created>1610327719207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610327719207</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="347" key="GridCell.Tab.0.bottom" timestamp="1610460828207">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1442" height="226" key="GridCell.Tab.0.bottom/0.0.1463.874/2560.0.1920.1040@0.0.1463.874" timestamp="1610460291179" />
+    <state width="1899" height="347" key="GridCell.Tab.0.bottom/0.0.1463.874/2560.0.1920.1040@2560.0.1920.1040" timestamp="1610460828207" />
+    <state width="1442" height="413" key="GridCell.Tab.0.bottom/0.0.1463.874@0.0.1463.874" timestamp="1610442510658" />
+    <state width="1899" height="347" key="GridCell.Tab.0.center" timestamp="1610460828207">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1442" height="226" key="GridCell.Tab.0.center/0.0.1463.874/2560.0.1920.1040@0.0.1463.874" timestamp="1610460291179" />
+    <state width="1899" height="347" key="GridCell.Tab.0.center/0.0.1463.874/2560.0.1920.1040@2560.0.1920.1040" timestamp="1610460828207" />
+    <state width="1442" height="413" key="GridCell.Tab.0.center/0.0.1463.874@0.0.1463.874" timestamp="1610442510658" />
+    <state width="1899" height="347" key="GridCell.Tab.0.left" timestamp="1610460828207">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1442" height="226" key="GridCell.Tab.0.left/0.0.1463.874/2560.0.1920.1040@0.0.1463.874" timestamp="1610460291179" />
+    <state width="1899" height="347" key="GridCell.Tab.0.left/0.0.1463.874/2560.0.1920.1040@2560.0.1920.1040" timestamp="1610460828207" />
+    <state width="1442" height="413" key="GridCell.Tab.0.left/0.0.1463.874@0.0.1463.874" timestamp="1610442510658" />
+    <state width="1899" height="347" key="GridCell.Tab.0.right" timestamp="1610460828207">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1442" height="226" key="GridCell.Tab.0.right/0.0.1463.874/2560.0.1920.1040@0.0.1463.874" timestamp="1610460291179" />
+    <state width="1899" height="347" key="GridCell.Tab.0.right/0.0.1463.874/2560.0.1920.1040@2560.0.1920.1040" timestamp="1610460828207" />
+    <state width="1442" height="413" key="GridCell.Tab.0.right/0.0.1463.874@0.0.1463.874" timestamp="1610442510658" />
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom" timestamp="1610460828208">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1442" height="281" key="GridCell.Tab.1.bottom/0.0.1463.874/2560.0.1920.1040@0.0.1463.874" timestamp="1610456513474" />
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom/0.0.1463.874/2560.0.1920.1040@2560.0.1920.1040" timestamp="1610460828208" />
+    <state width="1899" height="347" key="GridCell.Tab.1.center" timestamp="1610460828208">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1442" height="281" key="GridCell.Tab.1.center/0.0.1463.874/2560.0.1920.1040@0.0.1463.874" timestamp="1610456513474" />
+    <state width="1899" height="347" key="GridCell.Tab.1.center/0.0.1463.874/2560.0.1920.1040@2560.0.1920.1040" timestamp="1610460828208" />
+    <state width="1899" height="347" key="GridCell.Tab.1.left" timestamp="1610460828208">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1442" height="281" key="GridCell.Tab.1.left/0.0.1463.874/2560.0.1920.1040@0.0.1463.874" timestamp="1610456513474" />
+    <state width="1899" height="347" key="GridCell.Tab.1.left/0.0.1463.874/2560.0.1920.1040@2560.0.1920.1040" timestamp="1610460828208" />
+    <state width="1899" height="347" key="GridCell.Tab.1.right" timestamp="1610460828208">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1442" height="281" key="GridCell.Tab.1.right/0.0.1463.874/2560.0.1920.1040@0.0.1463.874" timestamp="1610456513474" />
+    <state width="1899" height="347" key="GridCell.Tab.1.right/0.0.1463.874/2560.0.1920.1040@2560.0.1920.1040" timestamp="1610460828208" />
+    <state x="313" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1610452400673">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="313" y="345" key="com.intellij.ide.util.TipDialog/0.0.1463.874@0.0.1463.874" timestamp="1610452400673" />
+    <state x="297" y="173" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1610456184200">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="297" y="173" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1463.874/2560.0.1920.1040@0.0.1463.874" timestamp="1610456184200" />
+    <state x="718" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1610454339038">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="718" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1463.874/2560.0.1920.1040@0.0.1463.874" timestamp="1610454339038" />
+    <state x="718" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1463.874@0.0.1463.874" timestamp="1610436541541" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_class/api_lesson_04.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_class/api_lesson_04.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_class/api_lesson_04.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
